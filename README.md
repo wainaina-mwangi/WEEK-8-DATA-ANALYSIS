@@ -1,4 +1,6 @@
 COVID-19 Data Analysis  Kenya
+
+
 🧠 Key Insights from Kenya’s COVID-19 Data
 📈 Vaccination Progress
 Kenya’s COVID-19 vaccination journey is well-documented in the dataset. Key indicators such as people_vaccinated and people_fully_vaccinated trace the country's rollout efforts. The people_vaccinated_per_hundred metric offers a standardized measure, allowing for meaningful comparisons with other nations' vaccination rates.
